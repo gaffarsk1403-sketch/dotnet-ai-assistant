@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+.env
+appsettings.Development.json
+node_modules/
+dist/
+.DS_Store
